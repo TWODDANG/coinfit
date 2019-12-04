@@ -6,7 +6,6 @@
     font-size: 1.5rem;
     font-weight: bold;
     text-align: center;
-    border-bottom: 3px solid coral;
 }
 
 .fit {
@@ -21,7 +20,7 @@
 
 
 .menu {
-    background-color: #da681d;
+    background-color: orange;
     height: 3.5rem;
 }
 
@@ -38,7 +37,7 @@
 }
 
 .menu-item:hover {
-    background-color: #9f612a;
+    background-color: darkorange;
 }
 
 .menu-item:active, .menu-item.active {
