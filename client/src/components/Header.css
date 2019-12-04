@@ -20,7 +20,7 @@
 
 
 .menu {
-    background-color: orange;
+    background-color: darkorange;
     height: 3.5rem;
 }
 
@@ -37,7 +37,7 @@
 }
 
 .menu-item:hover {
-    background-color: darkorange;
+    background-color: #da681d;
 }
 
 .menu-item:active, .menu-item.active {
