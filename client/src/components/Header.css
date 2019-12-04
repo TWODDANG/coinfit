@@ -1,12 +1,24 @@
 .logo {
     height: 3.5rem;
-    background-color: #ed8213;
+    background-color: white;
     line-height: 3.5rem;
-    color: white;
+    color: black;
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: center;
+    border-bottom: 3px solid coral;
+}
+
+.fit {
+    height: 3.5rem;
+    line-height: 3.5rem;
+    color: lightcoral;
     font-size: 1.5rem;
     font-weight: bold;
     text-align: center;
 }
+
+
 
 .menu {
     background-color: #da681d;

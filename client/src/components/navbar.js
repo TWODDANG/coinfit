@@ -2,18 +2,13 @@ import React from 'react';
 import './Header.css';
 import {Link} from 'react-router-dom';
 
-const MenuItem = ({children, to}) => (
-    <Link to={to} className="menu-item">
-        {children}
-    </Link>
-);
-
 
 const Header = () => {
     return (
         <div>
             <div className="logo">
-                CoinFit
+                <span>Coin</span>
+                <span className="fit">Fit</span>
             </div>
             <div className="menu">
                 <Link to='/' className="menu-item">홈</Link>
